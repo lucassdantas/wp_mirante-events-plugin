@@ -2,6 +2,7 @@
 /**
  * Plugin Name: Eventos do Mirante Plugin
  * Description: Cria o Custom Post Type de eventos com shortcode para listagem.
+ * Plugin URI: https://github.com/lucassdantas/wp_mirante-events-plugin.git
  * Version: 1.0
  * Author: RD Exclusive
  */
